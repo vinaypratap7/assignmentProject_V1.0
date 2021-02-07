@@ -1,0 +1,10 @@
+com\project\spring\service\TestServiceImpl.class
+com\project\spring\dao\TestDAO.class
+com\project\spring\config\AppConfig.class
+com\project\counter\App.class
+com\project\spring\controller\MyController.class
+com\project\spring\config\WebConfig.class
+com\project\spring\dao\TestDAOImpl.class
+com\project\spring\config\MyWebAppInitializer.class
+com\project\spring\service\TestService.class
+com\project\spring\model\Count.class
